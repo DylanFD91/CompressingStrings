@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressAString", "CompressAString\CompressAString.csproj", "{0FBFBEE5-EDAC-4CF8-8046-25FBDF5D890E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FBFBEE5-EDAC-4CF8-8046-25FBDF5D890E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBFBEE5-EDAC-4CF8-8046-25FBDF5D890E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBFBEE5-EDAC-4CF8-8046-25FBDF5D890E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBFBEE5-EDAC-4CF8-8046-25FBDF5D890E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C125809-D63E-4F42-B38F-0788C5AE5A9E}
+	EndGlobalSection
+EndGlobal
